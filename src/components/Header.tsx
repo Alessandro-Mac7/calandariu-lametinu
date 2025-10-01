@@ -40,7 +40,7 @@ export const Header = ({ title = "Calendariu Lametino", subtitle }: HeaderProps)
       <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/50 to-black/70 z-10" />
 
       {/* Content */}
-      <div className="relative h-full flex flex-col items-center justify-center text-center px-4 z-20">
+      <div className="relative h-full flex flex-col items-center justify-center text-center px-4 z-20 pwa-header-content">
         <h1 className="text-3xl md:text-4xl font-serif font-bold text-white drop-shadow-lg mb-2">
           {title}
         </h1>

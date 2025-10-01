@@ -114,25 +114,37 @@ All colors MUST be HSL.
   }
 }
 
-/* PWA Standalone Mode - Remove browser chrome padding */
+/* PWA Standalone Mode - Extend header into status bar */
 @media (display-mode: standalone) {
   body {
+    padding-top: 0;
+  }
+
+  /* Extend header to cover status bar */
+  .pwa-header {
+    margin-top: calc(-1 * env(safe-area-inset-top));
+    padding-top: env(safe-area-inset-top);
+    min-height: calc(12rem + env(safe-area-inset-top)); /* 48 (h-48) + status bar */
+  }
+
+  /* Ensure content stays centered considering status bar */
+  .pwa-header-content {
     padding-top: env(safe-area-inset-top);
   }
 
-  .pwa-header {
-    padding-top: env(safe-area-inset-top);
+  /* On larger screens */
+  @media (min-width: 768px) {
+    .pwa-header {
+      min-height: calc(16rem + env(safe-area-inset-top)); /* 64 (md:h-64) + status bar */
+    }
   }
 }
 
-/* iOS PWA - Add safe area padding */
+/* iOS PWA - Fallback with max() support */
 @supports (padding: max(0px)) {
   @media (display-mode: standalone) {
-    body {
-      padding-top: max(env(safe-area-inset-top), 0px);
-    }
-
     .pwa-header {
+      margin-top: max(calc(-1 * env(safe-area-inset-top)), 0px);
       padding-top: max(env(safe-area-inset-top), 0px);
     }
   }
