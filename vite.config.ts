@@ -14,10 +14,11 @@ export default defineConfig(({ mode }) => ({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.ico", "robots.txt", "icons/*.png"],
-      manifest: false, // We're using our own manifest.webmanifest
+      includeAssets: ["favicon.ico", "robots.txt", "icons/*.png", "manifest.webmanifest"],
+      manifest: false, // Using custom manifest.webmanifest
       workbox: {
-        globPatterns: ["**/*.{js,css,html,ico,png,svg,jpg,webp}"],
+        globPatterns: ["**/*.{js,css,html,ico,png,svg,jpg,webp,webmanifest}"],
+        navigateFallback: null, // Disable navigate fallback for hash router
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,

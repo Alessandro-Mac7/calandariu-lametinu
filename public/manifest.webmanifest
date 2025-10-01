@@ -49,80 +49,10 @@
       "purpose": "any"
     },
     {
-      "src": "/calandariu-lametinu/icons/icon-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
       "src": "/calandariu-lametinu/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "/calandariu-lametinu/icons/icon-maskable-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "/calandariu-lametinu/icons/icon-maskable-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/calandariu-lametinu/screenshots/home.png",
-      "sizes": "540x720",
-      "type": "image/png",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "/calandariu-lametinu/screenshots/calendar.png",
-      "sizes": "540x720",
-      "type": "image/png",
-      "form_factor": "narrow"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Oggi",
-      "short_name": "Oggi",
-      "description": "Visualizza il giorno corrente",
-      "url": "/calandariu-lametinu/",
-      "icons": [
-        {
-          "src": "/calandariu-lametinu/icons/shortcut-today.png",
-          "sizes": "96x96"
-        }
-      ]
-    },
-    {
-      "name": "Calendario",
-      "short_name": "Calendario",
-      "description": "Sfoglia tutti i mesi",
-      "url": "/calandariu-lametinu/#/calendar",
-      "icons": [
-        {
-          "src": "/calandariu-lametinu/icons/shortcut-calendar.png",
-          "sizes": "96x96"
-        }
-      ]
-    },
-    {
-      "name": "Dizionario",
-      "short_name": "Dizionario",
-      "description": "Cerca nel dizionario",
-      "url": "/calandariu-lametinu/#/dictionary",
-      "icons": [
-        {
-          "src": "/calandariu-lametinu/icons/shortcut-dictionary.png",
-          "sizes": "96x96"
-        }
-      ]
+      "purpose": "any maskable"
     }
   ]
 }
