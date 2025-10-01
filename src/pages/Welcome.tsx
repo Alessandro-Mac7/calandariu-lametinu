@@ -28,7 +28,7 @@ const Welcome = () => {
           </div>
 
           {/* Title */}
-          <h1 className="text-4xl md:text-5xl font-serif font-bold text-primary leading-tight">
+          <h1 className="text-4xl text-center md:text-5xl font-serif font-bold text-primary leading-tight">
             {introData.title}
           </h1>
 

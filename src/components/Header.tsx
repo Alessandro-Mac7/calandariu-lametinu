@@ -5,7 +5,7 @@ interface HeaderProps {
   subtitle?: string;
 }
 
-export const Header = ({ title = "Calendario Lametino", subtitle }: HeaderProps) => {
+export const Header = ({ title = "Calendariu Lametino", subtitle }: HeaderProps) => {
   return (
     <header className="relative h-48 md:h-64 overflow-hidden">
       {/* Responsive Background Image with WebP support */}
@@ -32,7 +32,7 @@ export const Header = ({ title = "Calendario Lametino", subtitle }: HeaderProps)
           alt="Piazza Lametina - Veduta storica"
           className="absolute inset-0 w-full h-full object-cover"
           loading="eager"
-          fetchpriority="high"
+          fetchPriority="high"
         />
       </picture>
 

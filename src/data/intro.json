@@ -1,4 +1,22 @@
 {
     "title": "Benvenuti, cari lettori!",
-    "content": "Scartabellare le voci del proprio paese fa bene allo spirito, soprattutto perché molta parte dell&#39;anima nostra è “dialetto”, come ribadiva a chiare lettere il caro filosofo novecentesco Benedetto Croce.\n Non solo: il vernacolo nasce dentro, è lingua dell&#39;intimità, dell&#39;habitat, &quot;coscienza terrosa&quot; di un popolo, sta all&#39;individuo parlante come la radice all&#39;albero; nasce nella zolla, si nutre nell&#39;humus, si fonde nella pianta stessa. È, insomma, l&#39;anima di un popolo (Marcello D&#39;Orta).\n Questo sito archeo-linguistico è stato realizzato appositamente per te, perché, attraverso un comunissimo annuario digitale, tu possa calendarizzare l’impegno di uno scavo linguistico e tracciare a pennellate e in punta di penna una storia di gran vaglia al vaglio di parole, espressioni, modi dire lametini.\n E se dovesse presentarsi qualche difficoltà, ricorda di consultare il lessico frequenziale, apposto in questo spazio, per facilitarti la comprensione dei passi più oscuri. Tuttavia, in questo percorso, ti sia compagna la stessa fiammella di luce, che ha animato questo mio progetto, perché tu in futuro lo possa tesaurizzare in uno scenario ancora più vasto: Poca favilla, gran fiamma seconda, e Dante, consentimi, in terzine incatenate, ci infervora sempre, a tutte le età, ed in ogni tempo, con la fiaccola di un’eredità plurisecolare sempre più accattivante.\n Ergo, leggimi, per continuarmi:\n ad altiora semper, e di buzzo buono, per la nostra città!\n Prof. Francesco Polopoli"
+    "content": [
+        {"text": "Scartabellare le voci del proprio paese fa bene allo spirito, soprattutto perché molta parte dell'anima nostra è "},
+        {"text": "\"dialetto\"", "italic": true},
+        {"text": ", come ribadiva a chiare lettere il caro filosofo novecentesco Benedetto Croce.\n\n"},
+        {"text": "Non solo: ", "bold": true},
+        {"text": "il vernacolo nasce dentro, è lingua dell'intimità, dell'habitat, "},
+        {"text": "\"coscienza terrosa\"", "italic": true},
+        {"text": " di un popolo, sta all'individuo parlante come la radice all'albero; nasce nella zolla, si nutre nell'humus, si fonde nella pianta stessa. È, insomma, "},
+        {"text": "l'anima di un popolo", "italic": true, "bold": true},
+        {"text": " (Marcello D'Orta).\n\n"},
+        {"text": "Questo sito archeo-linguistico è stato realizzato appositamente per te, perché, attraverso un comunissimo annuario digitale, tu possa calendarizzare l'impegno di uno scavo linguistico e tracciare a pennellate e in punta di penna una storia di gran vaglia al vaglio di parole, espressioni, modi dire lametini.\n\n"},
+        {"text": "E se dovesse presentarsi qualche difficoltà, ricorda di consultare il lessico frequenziale, apposto in questo spazio, per facilitarti la comprensione dei passi più oscuri. Tuttavia, in questo percorso, ti sia compagna la stessa fiammella di luce, che ha animato questo mio progetto, perché tu in futuro lo possa tesaurizzare in uno scenario ancora più vasto: "},
+        {"text": "Poca favilla, gran fiamma seconda", "italic": true},
+        {"text": ", e Dante, consentimi, in terzine incatenate, ci infervora sempre, a tutte le età, ed in ogni tempo, con la fiaccola di un'eredità plurisecolare sempre più accattivante.\n\n"},
+        {"text": "Ergo, leggimi, per continuarmi:\n"},
+        {"text": "ad altiora semper", "italic": true},
+        {"text": ", e di buzzo buono, per la nostra città!\n\n"},
+        {"text": "Prof. Francesco Polopoli", "bold": true}
+    ]
 }
