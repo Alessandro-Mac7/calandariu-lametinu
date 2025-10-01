@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+      // Redirect 404 to index.html with the path as a query parameter
+      const path = window.location.pathname.replace('/calandariu-lametinu', '');
+      const search = window.location.search;
+      window.location.replace('/calandariu-lametinu/' + (search ? '?' + search.slice(1) : '') + '#' + path);
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
