@@ -12,18 +12,13 @@ export const IntroSection = () => {
   };
 
   return (
-    <div className="relative w-full flex justify-center items-start my-10">
+    <div className="relative w-full flex justify-center items-start">
       {/* Hint text when collapsed - positioned absolutely above */}
-      {isCollapsed && (
-        <p className="absolute -top-6 left-1/2 -translate-x-1/2 text-center text-xs text-muted-foreground animate-in fade-in duration-700 delay-500">
-          Tocca per espandere
-        </p>
-      )}
 
       <div
         className={`
           cursor-pointer select-none
-          transition-all duration-[900ms] ease-[cubic-bezier(0.25,0.46,0.45,0.94)]
+          transition-all duration-[900ms] ease-out
           ${isCollapsed ? 'w-16' : 'w-full'}
         `}
         onClick={toggleCollapse}
@@ -31,7 +26,7 @@ export const IntroSection = () => {
         <Card
           className={`
             shadow-soft bg-gradient-to-br from-card to-muted/30
-            transition-all duration-[900ms] ease-[cubic-bezier(0.25,0.46,0.45,0.94)]
+            transition-all duration-[900ms] ease-out
             overflow-hidden mx-auto
             ${isCollapsed
               ? 'p-0 rounded-full w-16 h-16 hover:scale-110 hover:shadow-hover'

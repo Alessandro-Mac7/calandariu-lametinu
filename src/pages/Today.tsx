@@ -16,7 +16,7 @@ const Today = () => {
       {/* Header with Image - Fixed */}
       <div className="sticky top-0 z-50">
         <Header 
-          title="Chi jurnu è oghji?"
+          title="Chi juarnu è ohji?"
           subtitle="Ieri, oggi e dumani in dialetto lametino"
         />
       </div>
