@@ -113,3 +113,27 @@ All colors MUST be HSL.
     box-shadow: var(--shadow-hover);
   }
 }
+
+/* PWA Standalone Mode - Remove browser chrome padding */
+@media (display-mode: standalone) {
+  body {
+    padding-top: env(safe-area-inset-top);
+  }
+
+  .pwa-header {
+    padding-top: env(safe-area-inset-top);
+  }
+}
+
+/* iOS PWA - Add safe area padding */
+@supports (padding: max(0px)) {
+  @media (display-mode: standalone) {
+    body {
+      padding-top: max(env(safe-area-inset-top), 0px);
+    }
+
+    .pwa-header {
+      padding-top: max(env(safe-area-inset-top), 0px);
+    }
+  }
+}

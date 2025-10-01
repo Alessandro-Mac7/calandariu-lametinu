@@ -7,7 +7,7 @@ interface HeaderProps {
 
 export const Header = ({ title = "Calendariu Lametino", subtitle }: HeaderProps) => {
   return (
-    <header className="relative h-48 md:h-64 overflow-hidden">
+    <header className="relative h-48 md:h-64 overflow-hidden pwa-header">
       {/* Responsive Background Image with WebP support */}
       <picture className="absolute inset-0">
         {/* WebP sources for modern browsers - add when converted */}
