@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Lametino warm, earthy palette */
+    --background: 40 30% 95%;
+    --foreground: 25 20% 20%;
+
+    --card: 40 35% 98%;
+    --card-foreground: 25 20% 20%;
+
+    --popover: 40 35% 98%;
+    --popover-foreground: 25 20% 20%;
+
+    --primary: 12 48% 60%;
+    --primary-foreground: 40 35% 98%;
+
+    --secondary: 35 25% 35%;
+    --secondary-foreground: 40 35% 98%;
+
+    --muted: 40 20% 88%;
+    --muted-foreground: 35 15% 45%;
+
+    --accent: 35 70% 50%;
+    --accent-foreground: 40 35% 98%;
+
+    --destructive: 0 70% 55%;
+    --destructive-foreground: 40 35% 98%;
+
+    --border: 40 20% 85%;
+    --input: 40 20% 85%;
+    --ring: 12 48% 60%;
+
+    --radius: 0.75rem;
+
+    /* Custom design tokens */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --shadow-soft: 0 4px 12px hsla(12, 48%, 40%, 0.08);
+    --shadow-hover: 0 8px 24px hsla(12, 48%, 40%, 0.12);
+  }
+
+  .dark {
+    --background: 25 25% 12%;
+    --foreground: 40 30% 95%;
+
+    --card: 25 25% 15%;
+    --card-foreground: 40 30% 95%;
+
+    --popover: 25 25% 15%;
+    --popover-foreground: 40 30% 95%;
+
+    --primary: 12 48% 60%;
+    --primary-foreground: 25 25% 12%;
+
+    --secondary: 35 25% 25%;
+    --secondary-foreground: 40 30% 95%;
+
+    --muted: 25 20% 20%;
+    --muted-foreground: 40 20% 65%;
+
+    --accent: 35 70% 50%;
+    --accent-foreground: 25 25% 12%;
+
+    --destructive: 0 70% 55%;
+    --destructive-foreground: 40 30% 95%;
+
+    --border: 25 20% 22%;
+    --input: 25 20% 22%;
+    --ring: 12 48% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .transition-smooth {
+    transition: var(--transition-smooth);
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .shadow-hover {
+    box-shadow: var(--shadow-hover);
+  }
+}
