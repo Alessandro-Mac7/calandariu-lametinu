@@ -37,13 +37,6 @@ const Welcome = () => {
             {introData.content}
           </p>
 
-          {/* Citation */}
-          <div className="pt-4">
-            <p className="text-sm text-muted-foreground italic">
-              — Benedetto Croce
-            </p>
-          </div>
-
           {/* CTA Button */}
           <div className="pt-8">
             <Button

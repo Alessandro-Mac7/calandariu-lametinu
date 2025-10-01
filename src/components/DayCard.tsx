@@ -13,7 +13,7 @@ export const DayCard = ({ day, monthDialect }: DayCardProps) => {
         <div className="space-y-4">
           {/* Date Header */}
           <div className="border-b border-border pb-4">
-            <div className="flex items-baseline gap-3">
+            <div className="flex items-center gap-4">
               <h2 className="text-5xl font-serif font-bold text-primary">
                 {day.day}
               </h2>
@@ -31,7 +31,7 @@ export const DayCard = ({ day, monthDialect }: DayCardProps) => {
           {/* Saint */}
           <div>
             <h3 className="text-xs uppercase tracking-wide text-muted-foreground mb-1">
-              Santo del giorno
+              Celebrazione del giorno
             </h3>
             <p className="text-base font-medium text-secondary">
               {day.celebration}

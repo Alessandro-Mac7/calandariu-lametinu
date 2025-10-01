@@ -1,59 +1,23 @@
-import { useState, useEffect } from "react";
-import { calendarData } from "@/data/calendar";
+import { useCalendarNavigation } from "@/hooks/useCalendarNavigation";
+import { useDayData } from "@/hooks/useDayData";
 import { DayCard } from "@/components/DayCard";
 import { BottomNav } from "@/components/BottomNav";
 import { Header } from "@/components/Header";
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight, CalendarIcon } from "lucide-react";
-import { DayData } from "@/data/calendar";
 
 const Today = () => {
-  const [currentDate, setCurrentDate] = useState(new Date());
-  const [currentDayData, setCurrentDayData] = useState<{
-    day: DayData;
-    monthDialect: string;
-  } | null>(null);
-
-  useEffect(() => {
-    const month = currentDate.getMonth();
-    const day = currentDate.getDate();
-    
-    const monthData = calendarData.months[month];
-    const dayData = monthData?.days.find(d => d.day === day);
-
-    if (dayData && monthData) {
-      setCurrentDayData({
-        day: dayData,
-        monthDialect: monthData.dialect
-      });
-    } else {
-      setCurrentDayData(null);
-    }
-  }, [currentDate]);
-
-  const goToPreviousDay = () => {
-    const newDate = new Date(currentDate);
-    newDate.setDate(newDate.getDate() - 1);
-    setCurrentDate(newDate);
-  };
-
-  const goToNextDay = () => {
-    const newDate = new Date(currentDate);
-    newDate.setDate(newDate.getDate() + 1);
-    setCurrentDate(newDate);
-  };
-
-  const goToToday = () => {
-    setCurrentDate(new Date());
-  };
+  const { currentDate, goToNextDay, goToPreviousDay, goToToday } =
+    useCalendarNavigation();
+  const currentDayData = useDayData(currentDate);
 
   return (
     <div className="min-h-screen bg-background pb-20">
       {/* Header with Image - Fixed */}
       <div className="sticky top-0 z-50">
         <Header 
-          title="Oggi nel Dialetto"
-          subtitle="Il giorno corrente con santo e proverbio"
+          title="Chi jurnu è oghji?"
+          subtitle="Ieri, oggi e dumani in dialetto lametino"
         />
       </div>
 

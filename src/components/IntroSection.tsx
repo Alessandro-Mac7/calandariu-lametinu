@@ -16,9 +16,6 @@ export const IntroSection = () => {
           <p className="text-foreground leading-relaxed whitespace-pre-line">
             {introData.content}
           </p>
-          <p className="text-sm text-muted-foreground italic pt-2">
-            — Benedetto Croce
-          </p>
         </div>
       </div>
     </Card>

@@ -1,12 +1,12 @@
 import { useState } from "react";
-import { calendarData } from "@/data/calendar";
+import { getAllMonths } from "@/services/calendarService";
 import { BottomNav } from "@/components/BottomNav";
 import { Header } from "@/components/Header";
 import { IntroSection } from "@/components/IntroSection";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { DayCard } from "@/components/DayCard";
-import { DayData } from "@/data/calendar";
+import type { DayData } from "@/data/calendar";
 import {
   Carousel,
   CarouselContent,
@@ -29,6 +29,8 @@ const CalendarView = () => {
     monthDialect: string;
   } | null>(null);
 
+  const months = getAllMonths();
+
   const handleDayClick = (day: DayData, monthDialect: string) => {
     setSelectedDay({ day, monthDialect });
   };
@@ -39,7 +41,7 @@ const CalendarView = () => {
       <div className="sticky top-0 z-50">
         <Header 
           title="Calendario Lametino"
-          subtitle="Tradizioni e dialetto del 2025"
+          subtitle="Aforismi e celebrazioni del 2026"
         />
       </div>
 
@@ -62,7 +64,7 @@ const CalendarView = () => {
             className="w-full"
           >
             <CarouselContent>
-              {calendarData.months.map((month, index) => (
+              {months.map((month, index) => (
                 <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
                   <Card className="p-6 shadow-soft hover:shadow-hover transition-smooth h-full">
                     <div className="space-y-4">
