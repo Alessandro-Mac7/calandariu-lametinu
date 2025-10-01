@@ -23,18 +23,6 @@ const Today = () => {
 
       {/* Main Content */}
       <main className="max-w-2xl mx-auto px-4 py-6">
-        {/* Current Date Display */}
-        <div className="mb-4 text-center">
-          <p className="text-sm text-muted-foreground">
-            {currentDate.toLocaleDateString('it-IT', { 
-              weekday: 'long', 
-              year: 'numeric', 
-              month: 'long', 
-              day: 'numeric' 
-            })}
-          </p>
-        </div>
-
         {/* Date Navigation */}
         <div className="flex items-center justify-between mb-6 gap-2">
           <Button
@@ -65,12 +53,46 @@ const Today = () => {
           </Button>
         </div>
 
-        {/* Day Content */}
+        {/* Day Content with Header */}
         {currentDayData ? (
-          <DayCard
-            day={currentDayData.day}
-            monthDialect={currentDayData.monthDialect}
-          />
+          <div className="space-y-6">
+            {/* Date Header - same style as CalendarView Drawer */}
+            <div className="bg-card border border-border rounded-2xl p-6 shadow-soft">
+              <div className="flex items-center justify-center gap-6">
+                {/* Number */}
+                <h2 className="text-7xl md:text-8xl font-serif font-bold text-primary leading-none">
+                  {currentDayData.day.day}
+                </h2>
+                {/* Text container */}
+                <div className="flex flex-col pt-8 gap-2">
+                  <h3 className="text-3xl md:text-4xl font-semibold text-foreground leading-none">
+                    {currentDayData.monthDialect}
+                  </h3>
+                  <p className="text-lg md:text-xl text-muted-foreground leading-none">
+                    {currentDayData.day.weekday_dialect}
+                  </p>
+                </div>
+              </div>
+              {/* Italian Date */}
+              <div className="mt-4 pt-4 border-t border-border">
+                <p className="text-sm text-muted-foreground text-center">
+                  {currentDate.toLocaleDateString('it-IT', {
+                    weekday: 'long',
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                  })}
+                </p>
+              </div>
+            </div>
+
+            {/* Day Card without header */}
+            <DayCard
+              day={currentDayData.day}
+              monthDialect={currentDayData.monthDialect}
+              hideHeader={true}
+            />
+          </div>
         ) : (
           <div className="text-center py-12">
             <p className="text-muted-foreground">

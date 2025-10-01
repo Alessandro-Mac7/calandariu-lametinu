@@ -113,21 +113,38 @@ const CalendarView = () => {
         {/* Drawer for Selected Day */}
         <Drawer open={selectedDay !== null} onOpenChange={(open) => !open && setSelectedDay(null)}>
           <DrawerContent className="h-[80vh]">
-            <DrawerHeader className="flex items-center justify-between border-b border-border pb-4">
-              <DrawerTitle className="text-2xl font-serif font-bold text-primary">
-                Giorno Selezionato
-              </DrawerTitle>
-              <DrawerClose asChild>
-                <Button variant="ghost" size="icon">
-                  <X className="h-5 w-5" />
-                </Button>
-              </DrawerClose>
+            <DrawerHeader className="border-b border-border pb-6 pt-6">
+              <div className="flex items-center justify-center relative">
+                {/* Date Header - centered */}
+                <div className="flex items-center gap-6">
+                  {/* Number */}
+                  <h2 className="text-7xl md:text-8xl font-serif font-bold text-primary leading-none">
+                    {selectedDay?.day.day}
+                  </h2>
+                  {/* Text container */}
+                  <div className="flex flex-col pt-8 gap-2">
+                    <DrawerTitle className="text-3xl md:text-4xl font-semibold text-foreground leading-none">
+                      {selectedDay?.monthDialect}
+                    </DrawerTitle>
+                    <p className="text-lg md:text-xl text-muted-foreground leading-none">
+                      {selectedDay?.day.weekday_dialect}
+                    </p>
+                  </div>
+                </div>
+                {/* Close button - absolute positioned */}
+                <DrawerClose asChild>
+                  <Button variant="ghost" size="icon" className="absolute right-0">
+                    <X className="h-5 w-5" />
+                  </Button>
+                </DrawerClose>
+              </div>
             </DrawerHeader>
             <div className="overflow-y-auto px-4 py-6">
               {selectedDay && (
                 <DayCard
                   day={selectedDay.day}
                   monthDialect={selectedDay.monthDialect}
+                  hideHeader={true}
                 />
               )}
             </div>
