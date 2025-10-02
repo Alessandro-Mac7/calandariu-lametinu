@@ -1,6 +1,1081 @@
 {
   "entries": [
     {
+      "word": "abballàri",
+      "translation": "ballare, danzare",
+      "explanation": ""
+    },
+    {
+      "word": "abballarijàri",
+      "translation": "andar ballando, saltellare, far piccoli salti",
+      "explanation": ""
+    },
+    {
+      "word": "abballàta",
+      "translation": "atto del ballare, ballata",
+      "explanation": ""
+    },
+    {
+      "word": "abbampàri",
+      "translation": "avvampare, incendiarsi, ardere",
+      "explanation": ""
+    },
+    {
+      "word": "abbastàri",
+      "translation": "bastare, esser sufficiente",
+      "explanation": ""
+    },
+    {
+      "word": "abbatìa",
+      "translation": "abbadia, badia, monastero, convento di monaci",
+      "explanation": ""
+    },
+    {
+      "word": "abbattìri",
+      "translation": "abbattere, prostrare, vincere, sopraffare",
+      "explanation": ""
+    },
+    {
+      "word": "abbicinàri",
+      "translation": "avvicinare, accostare",
+      "explanation": ""
+    },
+    {
+      "word": "abbillìri",
+      "translation": "abbellire, rendere bello, ornare",
+      "explanation": ""
+    },
+    {
+      "word": "abbisàri",
+      "translation": "avvisare, avvertire",
+      "explanation": ""
+    },
+    {
+      "word": "abbiviràri",
+      "translation": "abbeverare, irrigare, annaffiare",
+      "explanation": ""
+    },
+    {
+      "word": "abbragatu",
+      "translation": "rauco, afono, senza voce",
+      "explanation": ""
+    },
+    {
+      "word": "abbrazzari",
+      "translation": "abbracciare, stringere fra le braccia",
+      "explanation": ""
+    },
+    {
+      "word": "abbacàtu",
+      "translation": "avvocato",
+      "explanation": ""
+    },
+    {
+      "word": "abbuffàri",
+      "translation": "gonfiare, dilatare- rifl. ingozzarsi, riempirsi a crepapelle",
+      "explanation": ""
+    },
+    {
+      "word": "abbundanza",
+      "translation": "abbondanza, ricchezza",
+      "explanation": ""
+    },
+    {
+      "word": "abbuscàri",
+      "translation": "procacciarsi cercando, procurarsi, ottenere",
+      "explanation": ""
+    },
+    {
+      "word": "abbutàri",
+      "translation": "voltare, socchiudere, chiudere parzialmente una porta o una finestra",
+      "explanation": ""
+    },
+    {
+      "word": "abbuttàri",
+      "translation": "nutrire, alimentare uno in modo eccessivo, rimpinzare esageratamente",
+      "explanation": ""
+    },
+    {
+      "word": "abitiallu",
+      "translation": "abitino sacro",
+      "explanation": ""
+    },
+    {
+      "word": "accarizzàri",
+      "translation": "carezzare, accarezzare, far carezze",
+      "explanation": ""
+    },
+    {
+      "word": "accatastàri",
+      "translation": "disporre in catasta",
+      "explanation": ""
+    },
+    {
+      "word": "accattàri",
+      "translation": "comprare, comperare, acquistare",
+      "explanation": ""
+    },
+    {
+      "word": "acchiappàri",
+      "translation": "acchiappare, catturare, afferrare, prendere",
+      "explanation": ""
+    },
+    {
+      "word": "acchjappatella",
+      "translation": "giuoco infantile, nel quale i fanciulli, a turno, si rincorrono, cercando di acchiapparsi",
+      "explanation": ""
+    },
+    {
+      "word": "accitàri",
+      "translation": "calmare, acquietare, imporre il silenzio",
+      "explanation": ""
+    },
+    {
+      "word": "acciuncàri",
+      "translation": "cioncare, troncare, spezzare, azzoppare, render zoppo",
+      "explanation": ""
+    },
+    {
+      "word": "accullàri",
+      "translation": "accollare, addossare",
+      "explanation": ""
+    },
+    {
+      "word": "accumpagnàri",
+      "translation": "accompagnare, far compagnia, seguire, scortare, condurre",
+      "explanation": ""
+    },
+    {
+      "word": "accundiscindìri",
+      "translation": "accondiscendere, acconsentire, consentire",
+      "explanation": ""
+    },
+    {
+      "word": "accupari",
+      "translation": "occuparsi, impegnarsi, affaccendarsi, adoperarsi",
+      "explanation": ""
+    },
+    {
+      "word": "accurgìri",
+      "translation": "accorgersi, rendersi conto, convincersi",
+      "explanation": ""
+    },
+    {
+      "word": "accurrìri",
+      "translation": "occorrere, bisognare, essere necessario",
+      "explanation": ""
+    },
+    {
+      "word": "accussì",
+      "translation": "in tal modo",
+      "explanation": ""
+    },
+    {
+      "word": "acitijàri",
+      "translation": "inacidire, inacidirsi, diventare acido, prendere un sapore acido",
+      "explanation": ""
+    },
+    {
+      "word": "àcitu",
+      "translation": "qualità dell’essere acido, acidità",
+      "explanation": ""
+    },
+    {
+      "word": "acquasantàru",
+      "translation": "Acquasantiera, pila dell’acqua benedetta",
+      "explanation": ""
+    },
+    {
+      "word": "acu",
+      "translation": "ago, spilla",
+      "explanation": ""
+    },
+    {
+      "word": "addimandàri",
+      "translation": "domandare, chiedere per sapere",
+      "explanation": ""
+    },
+    {
+      "word": "addottu",
+      "translation": "dotto, acculturato, istruito",
+      "explanation": ""
+    },
+    {
+      "word": "addubbari",
+      "translation": "procurare, procacciare, intr. sistemare, disporre le cose alla meglio",
+      "explanation": ""
+    },
+    {
+      "word": "addunàri",
+      "translation": "accorgersi, rendersi conto",
+      "explanation": ""
+    },
+    {
+      "word": "adduràri",
+      "translation": "odorare, fiutare",
+      "explanation": ""
+    },
+    {
+      "word": "addùru",
+      "translation": "odore, profumo, fragranza",
+      "explanation": ""
+    },
+    {
+      "word": "aducaziòni",
+      "translation": "educazione, urbanità, creanza",
+      "explanation": ""
+    },
+    {
+      "word": "aducchjàri",
+      "translation": "guardare le persone e cose con sguardo astioso",
+      "explanation": ""
+    },
+    {
+      "word": "affascinàri",
+      "translation": "stregare, far la frattura, fare il malocchio",
+      "explanation": ""
+    },
+    {
+      "word": "affibbijari",
+      "translation": "affibbiare, attribuire, appioppare, assestare, mollare",
+      "explanation": ""
+    },
+    {
+      "word": "affindìri",
+      "translation": "offendere, ingiuriare, insultare, danneggiare",
+      "explanation": ""
+    },
+    {
+      "word": "affissàri",
+      "translation": "tr. fissare, guardare fisso intr. fissarsi, impuntarsi, ostinarsi in un’idea",
+      "explanation": ""
+    },
+    {
+      "word": "affittàri",
+      "translation": "affittare, dare in affitto, locare, appigionare",
+      "explanation": ""
+    },
+    {
+      "word": "affizziunàtu",
+      "translation": "affezionato, affettuoso, tenero, espansivo, devoto",
+      "explanation": ""
+    },
+    {
+      "word": "affriggìri",
+      "translation": "affliggere, tormentare, torturare",
+      "explanation": ""
+    },
+    {
+      "word": "affruntàri",
+      "translation": "incontrare, imbattersi/ soccorrere, aiutare",
+      "explanation": ""
+    },
+    {
+      "word": "affuccàri",
+      "translation": "strangolare, strozzare",
+      "explanation": ""
+    },
+    {
+      "word": "affullatu",
+      "translation": "affollato",
+      "explanation": ""
+    },
+    {
+      "word": "affurtunàtu",
+      "translation": "fortunato, favorito dalla sorte",
+      "explanation": ""
+    },
+    {
+      "word": "aggenti",
+      "translation": "gente",
+      "explanation": ""
+    },
+    {
+      "word": "aggìallu",
+      "translation": "uccello",
+      "explanation": ""
+    },
+    {
+      "word": "aggrancàri",
+      "translation": "aggrinchirsi, rattrappirsi, contrarsi, rannicchiarsi",
+      "explanation": ""
+    },
+    {
+      "word": "aggravari",
+      "translation": "aggravare, render più grave",
+      "explanation": ""
+    },
+    {
+      "word": "aggualàri",
+      "translation": "agguagliare, uguagliare, pareggiare, bilanciare",
+      "explanation": ""
+    },
+    {
+      "word": "agliu",
+      "translation": "aglio",
+      "explanation": ""
+    },
+    {
+      "word": "aguànnu",
+      "translation": "quest’anno",
+      "explanation": ""
+    },
+    {
+      "word": "agustu",
+      "translation": "agosto, mese dell’anno",
+      "explanation": ""
+    },
+    {
+      "word": "ahhjàri",
+      "translation": "trovare, scoprire, rinvenire, reperire",
+      "explanation": ""
+    },
+    {
+      "word": "ajutu",
+      "translation": "aiuto",
+      "explanation": ""
+    },
+    {
+      "word": "alàri",
+      "translation": "sbadigliare",
+      "explanation": ""
+    },
+    {
+      "word": "àlitu",
+      "translation": "alito, respiro",
+      "explanation": ""
+    },
+    {
+      "word": "alìvu",
+      "translation": "olivo, oliva",
+      "explanation": ""
+    },
+    {
+      "word": "allampàri",
+      "translation": "afferrare con la massima decisione e con la rapidità del lampo",
+      "explanation": ""
+    },
+    {
+      "word": "allazzàri",
+      "translation": "allacciare, legare, stringere con lacci",
+      "explanation": ""
+    },
+    {
+      "word": "allicàri",
+      "translation": "allettare, attirare, far prendere gusto a qualche cosa di gustoso",
+      "explanation": ""
+    },
+    {
+      "word": "alligrizza",
+      "translation": "allegrezza, contentezza, letizia",
+      "explanation": ""
+    },
+    {
+      "word": "allippari",
+      "translation": "attaccarsi, insediarsi",
+      "explanation": ""
+    },
+    {
+      "word": "allivàri",
+      "translation": "allevare, far crescere",
+      "explanation": ""
+    },
+    {
+      "word": "allucìri",
+      "translation": "splendere, mandar luce",
+      "explanation": ""
+    },
+    {
+      "word": "allumàri",
+      "translation": "accendere",
+      "explanation": ""
+    },
+    {
+      "word": "allungari",
+      "translation": "allungare",
+      "explanation": ""
+    },
+    {
+      "word": "allurdari",
+      "translation": "sporcare, insozzare",
+      "explanation": ""
+    },
+    {
+      "word": "allussàri",
+      "translation": "istigare, aizzare",
+      "explanation": ""
+    },
+    {
+      "word": "amaru",
+      "translation": "amaro",
+      "explanation": ""
+    },
+    {
+      "word": "ammaccàri",
+      "translation": "ammaccare, pestare, schiacciare",
+      "explanation": ""
+    },
+    {
+      "word": "ammagginàri",
+      "translation": "immaginare, raffigurare, rappresentarsi",
+      "explanation": ""
+    },
+    {
+      "word": "ammalappatìri",
+      "translation": "soffrire tribolare, stentare, penare",
+      "explanation": ""
+    },
+    {
+      "word": "ammalignàri",
+      "translation": "incattivire, esacerbare, irritare, indispettire",
+      "explanation": ""
+    },
+    {
+      "word": "ammancàri",
+      "translation": "venir meno, diminuire, venire a mancare",
+      "explanation": ""
+    },
+    {
+      "word": "ammappàri",
+      "translation": "premere sugli oggetti, intr. mangiare con avidità",
+      "explanation": ""
+    },
+    {
+      "word": "ammasunàri",
+      "translation": "l’appollaiarsi, il rifugiarsi delle galline nel pollaio",
+      "explanation": ""
+    },
+    {
+      "word": "ammazzamiantu",
+      "translation": "ammazzamento",
+      "explanation": ""
+    },
+    {
+      "word": "ammazzàri",
+      "translation": "uccidere, togliere la vita violentemente",
+      "explanation": ""
+    },
+    {
+      "word": "ammintàri",
+      "translation": "aumentare, allungare, accrescere",
+      "explanation": ""
+    },
+    {
+      "word": "ammubbijàri",
+      "translation": "anestetizzare, narcotizzare, praticare l’anestetico",
+      "explanation": ""
+    },
+    {
+      "word": "ammucciàri",
+      "translation": "nascondere, celare, occultare",
+      "explanation": ""
+    },
+    {
+      "word": "ammucciùni",
+      "translation": "di nascosto, alla chetichella, di straforo",
+      "explanation": ""
+    },
+    {
+      "word": "ammugliàri",
+      "translation": "intingere, inumidire, bagnare",
+      "explanation": ""
+    },
+    {
+      "word": "ammunzillàri",
+      "translation": "ammucchiare, ammonticchiare, accumulare, ammassare, addensare",
+      "explanation": ""
+    },
+    {
+      "word": "ammusciàri",
+      "translation": "render moscio, far diventare flosci",
+      "explanation": ""
+    },
+    {
+      "word": "ammutàri",
+      "translation": "ammutolire, perdere l’uso della volta, diventar muto, star zitto",
+      "explanation": ""
+    },
+    {
+      "word": "ampràri",
+      "translation": "ampliare, spandere, stendere",
+      "explanation": ""
+    },
+    {
+      "word": "amùri",
+      "translation": "amore, affetto",
+      "explanation": ""
+    },
+    {
+      "word": "amurusu",
+      "translation": "amoroso, affettuoso, generoso",
+      "explanation": ""
+    },
+    {
+      "word": "anca",
+      "translation": "anca, gamba, femore",
+      "explanation": ""
+    },
+    {
+      "word": "ancùnu",
+      "translation": "qualche, qualcuno, qualcheduno",
+      "explanation": ""
+    },
+    {
+      "word": "àngilu",
+      "translation": "angelo",
+      "explanation": ""
+    },
+    {
+      "word": "àngulu",
+      "translation": "angolo, canto, spigolo, cantonata, spazio compreso fra due muri",
+      "explanation": ""
+    },
+    {
+      "word": "angustijàtu",
+      "translation": "angustiato, angosciato, afflitto",
+      "explanation": ""
+    },
+    {
+      "word": "anìallu",
+      "translation": "anello",
+      "explanation": ""
+    },
+    {
+      "word": "annacàri",
+      "translation": "cullare, dondolar la culla per conciliare il sonno al bambino",
+      "explanation": ""
+    },
+    {
+      "word": "annamuràri",
+      "translation": "innamorare, invaghire, affascinare",
+      "explanation": ""
+    },
+    {
+      "word": "annata",
+      "translation": "annata, corso, durata d’un intero anno",
+      "explanation": ""
+    },
+    {
+      "word": "annascàri",
+      "translation": "annusare, fiutare, odorare",
+      "explanation": ""
+    },
+    {
+      "word": "annestatùri",
+      "translation": "operaio per fare gli innesti",
+      "explanation": ""
+    },
+    {
+      "word": "annigari",
+      "translation": "annegare",
+      "explanation": ""
+    },
+    {
+      "word": "anniricàri",
+      "translation": "annerire, render nero",
+      "explanation": ""
+    },
+    {
+      "word": "annu",
+      "translation": "anno",
+      "explanation": ""
+    },
+    {
+      "word": "annudari",
+      "translation": "annodare, legare con nodo",
+      "explanation": ""
+    },
+    {
+      "word": "antìcu",
+      "translation": "antico, remoto, vetusto",
+      "explanation": ""
+    },
+    {
+      "word": "antinatu",
+      "translation": "antenato",
+      "explanation": ""
+    },
+    {
+      "word": "anùri",
+      "translation": "onore, prestigio, rispetto",
+      "explanation": ""
+    },
+    {
+      "word": "Anzàru",
+      "translation": "Anzàro, località periferica a NE di Sambiase",
+      "explanation": ""
+    },
+    {
+      "word": "anziànu",
+      "translation": "anziano, attempato",
+      "explanation": ""
+    },
+    {
+      "word": "apa",
+      "translation": "ape",
+      "explanation": ""
+    },
+    {
+      "word": "appanticàri",
+      "translation": "abbrustolire, strinare",
+      "explanation": ""
+    },
+    {
+      "word": "apparìri",
+      "translation": "apparire, comparire",
+      "explanation": ""
+    },
+    {
+      "word": "appiccicàri",
+      "translation": "accendere il forno, ma soltanto nel forno, quando si deve fare il pane",
+      "explanation": ""
+    },
+    {
+      "word": "appizzàri",
+      "translation": "accendere il fuoco",
+      "explanation": ""
+    },
+    {
+      "word": "appòggiu",
+      "translation": "appoggio, sostegno, aiuto",
+      "explanation": ""
+    },
+    {
+      "word": "apprìassu",
+      "translation": "appresso, dopo, poi, in seguito",
+      "explanation": ""
+    },
+    {
+      "word": "appricàri",
+      "translation": "applicare, impegnare, tenere occupato",
+      "explanation": ""
+    },
+    {
+      "word": "appuntàri",
+      "translation": "annotare, prendere nota",
+      "explanation": ""
+    },
+    {
+      "word": "appuràri",
+      "translation": "appurare, acclarare",
+      "explanation": ""
+    },
+    {
+      "word": "appustàri",
+      "translation": "rifl. appostarsi, mettersi in agguato",
+      "explanation": ""
+    },
+    {
+      "word": "aprili",
+      "translation": "aprile.",
+      "explanation": ""
+    },
+    {
+      "word": "aràcchju",
+      "translation": "piccola superficie di terreno, in campagna",
+      "explanation": ""
+    },
+    {
+      "word": "arangiàta",
+      "translation": "succo d’arancia",
+      "explanation": ""
+    },
+    {
+      "word": "aràri",
+      "translation": "arare",
+      "explanation": ""
+    },
+    {
+      "word": "arcissimu",
+      "translation": "uomo sfrenato, diavolo scatenato",
+      "explanation": ""
+    },
+    {
+      "word": "ardìri",
+      "translation": "ardere, bruciare",
+      "explanation": ""
+    },
+    {
+      "word": "argàstulu",
+      "translation": "ergastolo",
+      "explanation": ""
+    },
+    {
+      "word": "arìcchja",
+      "translation": "orecchio",
+      "explanation": ""
+    },
+    {
+      "word": "arìganu",
+      "translation": "origano",
+      "explanation": ""
+    },
+    {
+      "word": "armàdiu",
+      "translation": "armadio",
+      "explanation": ""
+    },
+    {
+      "word": "armàri",
+      "translation": "armare, fornire di armi",
+      "explanation": ""
+    },
+    {
+      "word": "armenu",
+      "translation": "almeno",
+      "explanation": ""
+    },
+    {
+      "word": "arrabbijiari",
+      "translation": "arrabbiare",
+      "explanation": ""
+    },
+    {
+      "word": "arraggiàtu",
+      "translation": "arrabbiato",
+      "explanation": ""
+    },
+    {
+      "word": "arrancàri",
+      "translation": "saltare, oltrepassare",
+      "explanation": ""
+    },
+    {
+      "word": "arrappàri",
+      "translation": "spiegazzare, sgualcire",
+      "explanation": ""
+    },
+    {
+      "word": "arrassàri",
+      "translation": "allontanare, spostare, rimuovere",
+      "explanation": ""
+    },
+    {
+      "word": "arrìatu",
+      "translation": "dietro, indietro",
+      "explanation": ""
+    },
+    {
+      "word": "arribbàri",
+      "translation": "appoggiare, deporre, adagiare rifl. adagiarsi, stendersi, appoggiarsi",
+      "explanation": ""
+    },
+    {
+      "word": "arribbillàri",
+      "translation": "indurre alla ribellione, mettere in subbuglio",
+      "explanation": ""
+    },
+    {
+      "word": "arricchjàri",
+      "translation": "ascoltare, tendere l’orecchio, origliare, usciolare",
+      "explanation": ""
+    },
+    {
+      "word": "arricittàri",
+      "translation": "ricettare, ricoverare, rifugiare",
+      "explanation": ""
+    },
+    {
+      "word": "arriminàri",
+      "translation": "sbrigarsi, affrettarsi",
+      "explanation": ""
+    },
+    {
+      "word": "arrìju",
+      "translation": "intensa allegria, esultanza, tripudio",
+      "explanation": ""
+    },
+    {
+      "word": "arringàri",
+      "translation": "lanciare, scagliare, buttare, scaraventare",
+      "explanation": ""
+    },
+    {
+      "word": "arripìazzu",
+      "translation": "atto del rammentare",
+      "explanation": ""
+    },
+    {
+      "word": "arristàri",
+      "translation": "arrestare",
+      "explanation": ""
+    },
+    {
+      "word": "arrivàri",
+      "translation": "arrivare, giungere, pervenire",
+      "explanation": ""
+    },
+    {
+      "word": "arrizzicàri",
+      "translation": "rischiare, esporre a rischio",
+      "explanation": ""
+    },
+    {
+      "word": "arrubbàri",
+      "translation": "rubare, depredare",
+      "explanation": ""
+    },
+    {
+      "word": "arrumbulàri",
+      "translation": "rotolare, far rotolare",
+      "explanation": ""
+    },
+    {
+      "word": "arrunijàri",
+      "translation": "rovinare",
+      "explanation": ""
+    },
+    {
+      "word": "arrunzàri",
+      "translation": "arronzare",
+      "explanation": ""
+    },
+    {
+      "word": "arrussicàri",
+      "translation": "arrossire, diventar rosso per modestia, vergogna o altro",
+      "explanation": ""
+    },
+    {
+      "word": "arrustìri",
+      "translation": "arrostire",
+      "explanation": ""
+    },
+    {
+      "word": "arruzzulàri",
+      "translation": "ruzzolare, rotolare",
+      "explanation": ""
+    },
+    {
+      "word": "arti",
+      "translation": "arte, mestiere",
+      "explanation": ""
+    },
+    {
+      "word": "àrvulu",
+      "translation": "albero",
+      "explanation": ""
+    },
+    {
+      "word": "asca",
+      "translation": "scheggia, pezzo di legno",
+      "explanation": ""
+    },
+    {
+      "word": "asciucàri",
+      "translation": "asciugare",
+      "explanation": ""
+    },
+    {
+      "word": "asciumàri",
+      "translation": "affumicare, avviluppare",
+      "explanation": ""
+    },
+    {
+      "word": "asciùttu",
+      "translation": "asciutto",
+      "explanation": ""
+    },
+    {
+      "word": "àsinu",
+      "translation": "asino, somaro",
+      "explanation": ""
+    },
+    {
+      "word": "aspittàri",
+      "translation": "aspettare, attendere",
+      "explanation": ""
+    },
+    {
+      "word": "àspitu",
+      "translation": "serpe velenosa",
+      "explanation": ""
+    },
+    {
+      "word": "assaggiàri",
+      "translation": "assaggiare, provare",
+      "explanation": ""
+    },
+    {
+      "word": "asserijàri",
+      "translation": "diventar serio, rinsavire, rinsanire",
+      "explanation": ""
+    },
+    {
+      "word": "assassinù",
+      "translation": "assassino",
+      "explanation": ""
+    },
+    {
+      "word": "assicundàri",
+      "translation": "assecondare, favorire",
+      "explanation": ""
+    },
+    {
+      "word": "assimigliàri",
+      "translation": "assomigliare, rassomigliare, sembrare, parere",
+      "explanation": ""
+    },
+    {
+      "word": "assissuràtu",
+      "translation": "assessorato",
+      "explanation": ""
+    },
+    {
+      "word": "assistìri",
+      "translation": "assistere, star vicino a uno per aiutarlo, soccorrere, sovvenire",
+      "explanation": ""
+    },
+    {
+      "word": "assittàri",
+      "translation": "sedere, mettere a sedere",
+      "explanation": ""
+    },
+    {
+      "word": "assuggittàri",
+      "translation": "assoggettare, sottoporre, sottomettere, render soggetto",
+      "explanation": ""
+    },
+    {
+      "word": "assulicchjàri",
+      "translation": "soleggiare, esporre al sole rifl. esporsi al sole, prendere il sole",
+      "explanation": ""
+    },
+    {
+      "word": "assuppàri",
+      "translation": "inzuppare, impregnare",
+      "explanation": ""
+    },
+    {
+      "word": "astati",
+      "translation": "estate",
+      "explanation": ""
+    },
+    {
+      "word": "àstricu",
+      "translation": "lastrico, lastricato",
+      "explanation": ""
+    },
+    {
+      "word": "astutàri",
+      "translation": "spegnere, estinguere",
+      "explanation": ""
+    },
+    {
+      "word": "atàru",
+      "translation": "altare",
+      "explanation": ""
+    },
+    {
+      "word": "atru",
+      "translation": "altro",
+      "explanation": ""
+    },
+    {
+      "word": "attaccàri",
+      "translation": "attaccare, legare",
+      "explanation": ""
+    },
+    {
+      "word": "attagnàri",
+      "translation": "coagularsi, cessar di scorrere",
+      "explanation": ""
+    },
+    {
+      "word": "attentu",
+      "translation": "attento, vigile",
+      "explanation": ""
+    },
+    {
+      "word": "attindìri",
+      "translation": "attendere",
+      "explanation": ""
+    },
+    {
+      "word": "attippàri",
+      "translation": "chiudere, tappare",
+      "explanation": ""
+    },
+    {
+      "word": "attrassàri",
+      "translation": "arretrare, lasciare indietro",
+      "explanation": ""
+    },
+    {
+      "word": "attruppicàri",
+      "translation": "rovesciare, inciampare, incespicare",
+      "explanation": ""
+    },
+    {
+      "word": "atu",
+      "translation": "alto",
+      "explanation": ""
+    },
+    {
+      "word": "àunu",
+      "translation": "agnello",
+      "explanation": ""
+    },
+    {
+      "word": "autùnnu",
+      "translation": "autunno",
+      "explanation": ""
+    },
+    {
+      "word": "avantàri",
+      "translation": "vantare",
+      "explanation": ""
+    },
+    {
+      "word": "avantarzìra",
+      "translation": "l’altro ieri sera",
+      "explanation": ""
+    },
+    {
+      "word": "avantìari",
+      "translation": "l’altro ieri",
+      "explanation": ""
+    },
+    {
+      "word": "Avàru",
+      "translation": "avaro",
+      "explanation": ""
+    },
+    {
+      "word": "Avemmaria",
+      "translation": "Ave Maria",
+      "explanation": ""
+    },
+    {
+      "word": "avìri",
+      "translation": "avere",
+      "explanation": ""
+    },
+    {
+      "word": "azari",
+      "translation": "alzare, sollevare",
+      "explanation": ""
+    },
+    {
+      "word": "azzannàri",
+      "translation": "azzannare, addentare",
+      "explanation": ""
+    },
+    {
+      "word": "azziccàri",
+      "translation": "azzeccare, indovinare",
+      "explanation": ""
+    },
+    {
+      "word": "azziòni",
+      "translation": "azione",
+      "explanation": ""
+    },
+    {
+      "word": "azzuppàri",
+      "translation": "azzoppare, render zoppo",
+      "explanation": ""
+    },
+    {
       "word": "Babbaluccu",
       "translation": "babbeo, scemo, tonto, stupido",
       "explanation": ""
@@ -17883,6 +18958,546 @@
     {
       "word": "zzuppijàri",
       "translation": "zoppicare, claudicare, camminare zoppicando",
+      "explanation": ""
+    },
+    {
+      "word": "Adele",
+      "translation": "Dilina",
+      "explanation": ""
+    },
+    {
+      "word": "Adelina",
+      "translation": "Talina",
+      "explanation": ""
+    },
+    {
+      "word": "Agostino",
+      "translation": "Gustinu",
+      "explanation": ""
+    },
+    {
+      "word": "Aldo",
+      "translation": "Ardu, Arduzzu.",
+      "explanation": ""
+    },
+    {
+      "word": "Alfonsina",
+      "translation": "Affrunsina",
+      "explanation": ""
+    },
+    {
+      "word": "Alfonso",
+      "translation": "Affronsu",
+      "explanation": ""
+    },
+    {
+      "word": "Alfredo",
+      "translation": "Affredu",
+      "explanation": ""
+    },
+    {
+      "word": "Angelina",
+      "translation": "Ngilina, Ngilinuzza, Ngilinella",
+      "explanation": ""
+    },
+    {
+      "word": "Annunziata",
+      "translation": "Nuziata",
+      "explanation": ""
+    },
+    {
+      "word": "Anselmo",
+      "translation": "Nsermu",
+      "explanation": ""
+    },
+    {
+      "word": "Antonia",
+      "translation": "Ntunuzza",
+      "explanation": ""
+    },
+    {
+      "word": "Antonietta",
+      "translation": "Ntunetta",
+      "explanation": ""
+    },
+    {
+      "word": "Antonello",
+      "translation": "Nello, Nellino, Nellù",
+      "explanation": ""
+    },
+    {
+      "word": "Antonio",
+      "translation": "Ntoni, Ntonariallu, Ntoriallu, Totò, Toto, Totonno",
+      "explanation": ""
+    },
+    {
+      "word": "Armando",
+      "translation": "Armandu, Armanduzzu",
+      "explanation": ""
+    },
+    {
+      "word": "Arnaldo",
+      "translation": "Annardu",
+      "explanation": ""
+    },
+    {
+      "word": "Aurelia",
+      "translation": "Rilluzza",
+      "explanation": ""
+    },
+    {
+      "word": "Basilio",
+      "translation": "Basili",
+      "explanation": ""
+    },
+    {
+      "word": "Biagio",
+      "translation": "Vrashu, Biasi",
+      "explanation": ""
+    },
+    {
+      "word": "Calogero",
+      "translation": "Caloggiru",
+      "explanation": ""
+    },
+    {
+      "word": "Candida",
+      "translation": "Candia, Candiuzza.",
+      "explanation": ""
+    },
+    {
+      "word": "Carlo",
+      "translation": "Carru, Carruzzu",
+      "explanation": ""
+    },
+    {
+      "word": "Carmela",
+      "translation": "Carmena, Carminella, Carmilina, Milina, Mena",
+      "explanation": ""
+    },
+    {
+      "word": "Carmine",
+      "translation": "Carminu",
+      "explanation": ""
+    },
+    {
+      "word": "Carolina",
+      "translation": "Carulina, Carulinella",
+      "explanation": ""
+    },
+    {
+      "word": "Caterina",
+      "translation": "Catarnuzza, Catarnella",
+      "explanation": ""
+    },
+    {
+      "word": "Cesare",
+      "translation": "Gesaru Cesarinu, Gesarinu, Gegè, Rino, Rinu;",
+      "explanation": ""
+    },
+    {
+      "word": "Concetta",
+      "translation": "Cuncetta, Cuncittina",
+      "explanation": ""
+    },
+    {
+      "word": "Diego",
+      "translation": "Diacu",
+      "explanation": ""
+    },
+    {
+      "word": "Domenica",
+      "translation": "Minica",
+      "explanation": ""
+    },
+    {
+      "word": "Domenico",
+      "translation": "Micu, Micuzzu (per bambini), Micariallu, Mimmu",
+      "explanation": ""
+    },
+    {
+      "word": "Dorostella",
+      "translation": "Rustella",
+      "explanation": ""
+    },
+    {
+      "word": "Egidio",
+      "translation": "Argidiu",
+      "explanation": ""
+    },
+    {
+      "word": "Elena",
+      "translation": "Lina, Linella",
+      "explanation": ""
+    },
+    {
+      "word": "Elia",
+      "translation": "Lia",
+      "explanation": ""
+    },
+    {
+      "word": "Elisabetta",
+      "translation": "Sabbetta, Sabbittina, Bittina",
+      "explanation": ""
+    },
+    {
+      "word": "Elvira",
+      "translation": "Arvira",
+      "explanation": ""
+    },
+    {
+      "word": "Enrico",
+      "translation": "Arricu, Arricuzzu",
+      "explanation": ""
+    },
+    {
+      "word": "Ermenegildo",
+      "translation": "Minicirdu",
+      "explanation": ""
+    },
+    {
+      "word": "Federico",
+      "translation": "Fhidiricu",
+      "explanation": ""
+    },
+    {
+      "word": "Felice",
+      "translation": "Fhilici, Fhiliciallu",
+      "explanation": ""
+    },
+    {
+      "word": "Filippo",
+      "translation": "Fhilippu",
+      "explanation": ""
+    },
+    {
+      "word": "Fiorina",
+      "translation": "Jurina",
+      "explanation": ""
+    },
+    {
+      "word": "Francesca",
+      "translation": "Fhrancisca, Francischina, Cicchina Cicchinella, Cicchinuzza, Ciccina, Checca",
+      "explanation": ""
+    },
+    {
+      "word": "Francescantonio",
+      "translation": "Ciccantoni",
+      "explanation": ""
+    },
+    {
+      "word": "Francesco",
+      "translation": "Fhranciscu, Francischiallu, Cicciu, Cicciariallu Ciccinu, Ciccu, Ciccuzzu, Checcu, Cicciuzzu, Cesco, Franco, Fhrancu, Franchino, Franchinu",
+      "explanation": ""
+    },
+    {
+      "word": "Francesco Giuseppe",
+      "translation": "Ciccupeppi",
+      "explanation": ""
+    },
+    {
+      "word": "Gabriele",
+      "translation": "Grabieli",
+      "explanation": ""
+    },
+    {
+      "word": "Gaetano",
+      "translation": "Gatanu",
+      "explanation": ""
+    },
+    {
+      "word": "Gaspare",
+      "translation": "Gasparu",
+      "explanation": ""
+    },
+    {
+      "word": "Gasperina",
+      "translation": "Gasparina, Gasparuzza, Gaspara",
+      "explanation": ""
+    },
+    {
+      "word": "Gelsomina",
+      "translation": "Girzumina",
+      "explanation": ""
+    },
+    {
+      "word": "Gennaro",
+      "translation": "Jinnaru, Jinnaruzzu",
+      "explanation": ""
+    },
+    {
+      "word": "Gertrude",
+      "translation": "Girtura, Girturella",
+      "explanation": ""
+    },
+    {
+      "word": "Giacinto",
+      "translation": "Jacintu",
+      "explanation": ""
+    },
+    {
+      "word": "Giacomo",
+      "translation": "Giacuminu",
+      "explanation": ""
+    },
+    {
+      "word": "Gino",
+      "translation": "Ginuzzu, Ginariallu, Gigginu",
+      "explanation": ""
+    },
+    {
+      "word": "Giantommaso",
+      "translation": "Gentumashi",
+      "explanation": ""
+    },
+    {
+      "word": "Giorgio",
+      "translation": "Giorgiu",
+      "explanation": ""
+    },
+    {
+      "word": "Giovanna",
+      "translation": "Ngiuanna, Ngiannuzza, Ngiannina, Vanna, Ninna, Ninnarella, Ninnuzza",
+      "explanation": ""
+    },
+    {
+      "word": "Giovanni",
+      "translation": "Giuanni, Giovannino, Gianni, Nino, Ninu, Ninì",
+      "explanation": ""
+    },
+    {
+      "word": "Giovannina",
+      "translation": "Ngiuannina, Ngiannina, Ngianninella",
+      "explanation": ""
+    },
+    {
+      "word": "Girolamo",
+      "translation": "Gilormu",
+      "explanation": ""
+    },
+    {
+      "word": "Giuseppe",
+      "translation": "Pèppi, Pippìnu, Pippiniallu",
+      "explanation": ""
+    },
+    {
+      "word": "Giuseppina",
+      "translation": "Pippina, Pinarella, Pippinella",
+      "explanation": ""
+    },
+    {
+      "word": "Gregorio",
+      "translation": "Griguari, Griguriallu",
+      "explanation": ""
+    },
+    {
+      "word": "Innocenza",
+      "translation": "Nuggenza",
+      "explanation": ""
+    },
+    {
+      "word": "Ippolita",
+      "translation": "Popa",
+      "explanation": ""
+    },
+    {
+      "word": "Ippolito",
+      "translation": "Pualitu.",
+      "explanation": ""
+    },
+    {
+      "word": "Isabella",
+      "translation": "Sabbella, Sabbillina",
+      "explanation": ""
+    },
+    {
+      "word": "Isidoro",
+      "translation": "Sideru",
+      "explanation": ""
+    },
+    {
+      "word": "Italia",
+      "translation": "Talina",
+      "explanation": ""
+    },
+    {
+      "word": "Italo",
+      "translation": "Talinu",
+      "explanation": ""
+    },
+    {
+      "word": "Jacopo",
+      "translation": "Japicu",
+      "explanation": ""
+    },
+    {
+      "word": "Leonardo",
+      "translation": "Linardo",
+      "explanation": ""
+    },
+    {
+      "word": "Leopoldo",
+      "translation": "Lipordu",
+      "explanation": ""
+    },
+    {
+      "word": "Lucrezia",
+      "translation": "Licriaza",
+      "explanation": ""
+    },
+    {
+      "word": "Luigi",
+      "translation": "Luici , Luiciuzzu, Ginu, Ginuzzu",
+      "explanation": ""
+    },
+    {
+      "word": "Maria",
+      "translation": "Mariella Mariuccia, Mariuzza, Mariuzzella",
+      "explanation": ""
+    },
+    {
+      "word": "Mariantonia",
+      "translation": "Marantona",
+      "explanation": ""
+    },
+    {
+      "word": "Mariantonietta",
+      "translation": "Marantunuzza",
+      "explanation": ""
+    },
+    {
+      "word": "Michele",
+      "translation": "Micheli, Michiluzzu",
+      "explanation": ""
+    },
+    {
+      "word": "Nicola",
+      "translation": "Nicola, Niculinu",
+      "explanation": ""
+    },
+    {
+      "word": "Paolo",
+      "translation": "Paulu, Palinu",
+      "explanation": ""
+    },
+    {
+      "word": "Pasquale",
+      "translation": "Pasquàli, Pasqualiallu",
+      "explanation": ""
+    },
+    {
+      "word": "Pietro",
+      "translation": "Piatru, Pitruzzu",
+      "explanation": ""
+    },
+    {
+      "word": "Pietro Antonio",
+      "translation": "Petrantoni",
+      "explanation": ""
+    },
+    {
+      "word": "Quinto",
+      "translation": "Quintinu",
+      "explanation": ""
+    },
+    {
+      "word": "Raffaella",
+      "translation": "Rafhela, Rafhilina, Lina, Lella, Rafhilinuzza",
+      "explanation": ""
+    },
+    {
+      "word": "Raffaele",
+      "translation": "Rafheli, Lellu, Lelé",
+      "explanation": ""
+    },
+    {
+      "word": "Rocco",
+      "translation": "Ruaccu",
+      "explanation": ""
+    },
+    {
+      "word": "Rosa",
+      "translation": "Rusuzza",
+      "explanation": ""
+    },
+    {
+      "word": "Rosario",
+      "translation": "Rusaru",
+      "explanation": ""
+    },
+    {
+      "word": "Rosina",
+      "translation": "Rusina, Rusinella",
+      "explanation": ""
+    },
+    {
+      "word": "Salvatore",
+      "translation": "Turuzzu, Turillu, Sharvaturi",
+      "explanation": ""
+    },
+    {
+      "word": "Saveria",
+      "translation": "Savera, Saviruzza",
+      "explanation": ""
+    },
+    {
+      "word": "Serafina",
+      "translation": "Zzarafhina, Zzarafhinuzza",
+      "explanation": ""
+    },
+    {
+      "word": "Stanislao",
+      "translation": "Stansalau",
+      "explanation": ""
+    },
+    {
+      "word": "Stefano",
+      "translation": "Stefhanu",
+      "explanation": ""
+    },
+    {
+      "word": "Teresa",
+      "translation": "Tirisella, Tirisuzza, Tiresa, Tirisina, Sina, Sinuzza, Sinarella, Sinella",
+      "explanation": ""
+    },
+    {
+      "word": "Teresina",
+      "translation": "Tirisinella, Tirisinuzza, Titina",
+      "explanation": ""
+    },
+    {
+      "word": "Tommaso",
+      "translation": "Tumashi",
+      "explanation": ""
+    },
+    {
+      "word": "Umberto",
+      "translation": "Umbertu",
+      "explanation": ""
+    },
+    {
+      "word": "Vincenzino",
+      "translation": "Vicinziniallu",
+      "explanation": ""
+    },
+    {
+      "word": "Vincenzo",
+      "translation": "Vicianzu, Vicinziallu ,Enzu, Cenzu, Cenzino, Cenzinu, Cecè",
+      "explanation": ""
+    },
+    {
+      "word": "Virgilio",
+      "translation": "Virgiliu.",
+      "explanation": ""
+    },
+    {
+      "word": "Vittoria",
+      "translation": "Vittuara",
+      "explanation": ""
+    },
+    {
+      "word": "Vittorio",
+      "translation": "Vittuaru, Vittuara, Vittoriu.",
       "explanation": ""
     }
   ]
