@@ -40,7 +40,7 @@ const CalendarView = () => {
       {/* Header with Image - Fixed */}
       <div className="sticky top-0 z-50">
         <Header 
-          title="Calendariu Lametino"
+          title="Calandariu Lametino"
           subtitle="Aforismi e celebrazioni del 2026"
         />
       </div>
