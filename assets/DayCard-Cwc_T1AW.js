@@ -1,4 +1,4 @@
-import{j as a}from"./index-CX_YKsCq.js";import{a as c}from"./Header-NKUuTeyF.js";const s=2026,d=[{name:"Gennaio",dialect:"Jinnàru",note:"Dal latino Januarius mensis, mese dedicato a Giano",days:[{day:1,weekday:"Giovedì",weekday_dialect:"Iuavi",celebration:"Capudannu",aphorism:{title:"È propriu “nu murgiuni!”!",content:`Non è un complimento: ma da dove deriva?
+import{j as a}from"./index-CtBestn0.js";import{a as c}from"./Header-BgwmL2GX.js";const s=2026,d=[{name:"Gennaio",dialect:"Jinnàru",note:"Dal latino Januarius mensis, mese dedicato a Giano",days:[{day:1,weekday:"Giovedì",weekday_dialect:"Iuavi",celebration:"Capudannu",aphorism:{title:"È propriu “nu murgiuni!”!",content:`Non è un complimento: ma da dove deriva?
 Dalla parola latina murex, che significa murice, roccia aguzza: per sineddoche, anche sasso.
 Ma che c’entra un sasso con “murgiuni”?
 Eppure, essere una roccia è complimentoso…
