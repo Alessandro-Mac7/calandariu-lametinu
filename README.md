@@ -7,7 +7,6 @@ Calendario interattivo in dialetto lametino con aforismi, celebrazioni e tradizi
 - Vite
 - TypeScript
 - React
-- shadcn-ui
 - Tailwind CSS
 - React Router
 - PWA (Progressive Web App)
