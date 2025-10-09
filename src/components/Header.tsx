@@ -5,7 +5,7 @@ interface HeaderProps {
   subtitle?: string;
 }
 
-export const Header = ({ title = "Calandariu Lametino", subtitle }: HeaderProps) => {
+export const Header = ({ title = "Calandariu Lametinu", subtitle }: HeaderProps) => {
   return (
     <header className="relative h-48 md:h-64 overflow-hidden pwa-header">
       {/* Responsive Background Image with WebP support */}

@@ -1,4 +1,4 @@
-# Calandariu Lametino
+# Calandariu Lametinu
 
 Calendario interattivo in dialetto lametino con aforismi, celebrazioni e tradizioni del 2026.
 
